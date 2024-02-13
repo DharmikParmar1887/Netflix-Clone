@@ -1,6 +1,6 @@
 <h1 style={{font size=3rem}}>Netflix Clone</h1>
 
-Check out the Netflix Clone : https://movieverse-be482.web.app/
+Check out the Netflix Clone : 
 
 <h3> #Home Page </h3>
 
