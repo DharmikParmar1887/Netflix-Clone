@@ -10,9 +10,6 @@ Check out the Netflix Clone :
 
 ![Screenshot (295)](https://user-images.githubusercontent.com/102823769/176952278-2d343522-9805-4f10-b98c-dc39a745261c.png)
 
-<h3> #Profile Page </h3>
-
-![Screenshot (296)](https://user-images.githubusercontent.com/102823769/176952289-076b0fb8-bf17-4023-922b-6530822144cb.png)
 
 <h3> #Banner </h3>
 
